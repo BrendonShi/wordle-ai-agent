@@ -10,12 +10,6 @@
 
 ---
 
-## 100 played games
-
-![wezterm-gui_Gch9b7lxaG](https://github.com/user-attachments/assets/1ccb1d44-3482-401f-b334-630879d64668)
-
----
-
 # My research
 
 Environment Design: The Wordle environment was created taking
