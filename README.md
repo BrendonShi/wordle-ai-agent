@@ -2,9 +2,7 @@
 
 ---
 
-# Played games by AI agent with winrate percentage:
-
-## 1 played game
+## 1 played game by AI agent
 
 ![wezterm-gui_VPEXPKiTAB](https://github.com/user-attachments/assets/512ad845-5842-42da-ae2e-5cc78a7954c1)
 
