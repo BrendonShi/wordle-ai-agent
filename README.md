@@ -51,8 +51,8 @@ a penalty of-0.1 point. This affects his incentive to find the secret
 word faster and not waste a large number of attempts.
 
 ### Results
-The agent was trained for 1,500,000 steps on 183 words with learn
-ing rate of 0.0001. At the end of the training, the graph showed that
+The agent was trained for 1,500,000 steps on 183 words with learning 
+rate of 0.0001. At the end of the training, the graph showed that
 the average number of attempts was 3.55, means the agent guessed
 the secret word on average in 3 or 4 attempts. The agent learned to
 prioritize depending on the status of the known letters, and used the
