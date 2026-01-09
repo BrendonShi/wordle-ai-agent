@@ -2,7 +2,7 @@
 
 ---
 
-# Played games by AI agent with winrate percentage
+# Played games by AI agent with winrate percentage:
 
 ## 1 played game
 
