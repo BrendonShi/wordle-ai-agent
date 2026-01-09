@@ -28,7 +28,7 @@ provided with information such as:
 • Last feedback, which is a vector that shows the information of the
 previous guess, namely the status of the letters.
 
-• Avector that contains 26 integers, which is the state of the alphabet
+• A vector that contains 26 integers, which is the state of the alphabet
 and keeps track of the status of each letter.
 
 • Remaining guesses, which indicates the remaining number of at
