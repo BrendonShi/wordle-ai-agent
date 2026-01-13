@@ -12,20 +12,6 @@ This project was created using Reinforcement Learning, with Gymnasium (Python fr
 
 # My research
 
-Reinforcement learning (RL) is a type of machine learning process
-in which agents are trained to make decisions on their own by
-interacting with their environment. An autonomous agent is any system
-that can make decisions and act in response to its environment
-independently of direct instructions from a human user [2].
-
-DQN learns all the regularities of the Wordle game
-using rewards. It evaluates the Q-value function to select words that
-are most likely to find the secret word in the game. DQN provides
-a reliable universal basis for demonstrating the capabilities of RL in
-combinatorial action spaces.
-
----
-
 Environment Design: The Wordle environment was created taking
 into account the main characteristics that are needed for Reinforcement
 Learning: rewards and delay of rewards, incomplete information
@@ -70,3 +56,17 @@ green ones again in the same place, and tried to use the yellow ones
 in a different place to turn them into green, while avoiding the letters
 with gray status. The agent’s win rate is approximately 87% out of
 all 100 games played.
+
+---
+
+***Reinforcement learning (RL)*** is a type of machine learning process
+in which agents are trained to make decisions on their own by
+interacting with their environment. An autonomous agent is any system
+that can make decisions and act in response to its environment
+independently of direct instructions from a human user.
+
+***DQN*** learns all the regularities of the Wordle game
+using rewards. It evaluates the Q-value function to select words that
+are most likely to find the secret word in the game. DQN provides
+a reliable universal basis for demonstrating the capabilities of RL in
+combinatorial action spaces.
