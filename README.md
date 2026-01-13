@@ -2,6 +2,8 @@
 
 ---
 
+This project was created using Reinforcement Learning, with Gymnasium (Python framework) providing the environment and a Deep Q-Network (DQN) from Stable-Baselines3 used to train the AI agent.
+
 ## 1 played game by AI agent
 
 ![wezterm-gui_VPEXPKiTAB](https://github.com/user-attachments/assets/512ad845-5842-42da-ae2e-5cc78a7954c1)
@@ -9,6 +11,20 @@
 ---
 
 # My research
+
+Reinforcement learning (RL) is a type of machine learning process
+in which agents are trained to make decisions on their own by
+interacting with their environment. An autonomous agent is any system
+that can make decisions and act in response to its environment
+independently of direct instructions from a human user [2].
+
+DQN learns all the regularities of the Wordle game
+using rewards. It evaluates the Q-value function to select words that
+are most likely to find the secret word in the game. DQN provides
+a reliable universal basis for demonstrating the capabilities of RL in
+combinatorial action spaces.
+
+---
 
 Environment Design: The Wordle environment was created taking
 into account the main characteristics that are needed for Reinforcement
@@ -41,6 +57,8 @@ point.
 • Every time the agent does not guess the secret word, he is given
 a penalty of-0.1 point. This affects his incentive to find the secret
 word faster and not waste a large number of attempts.
+
+---
 
 ### Results
 The agent was trained for 1,500,000 steps on 183 words with learning 
